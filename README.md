@@ -1,5 +1,4 @@
-# octocat
-My Personal Profile file
+# Kapil Gwal
 
 Hi My name is Kapil Gwal.
 I am a software developer.
