@@ -4,9 +4,9 @@ Aspiring Data Analyst | AI Enthusiast
 
 
 🚀 About Me
-I am an aspiring data analyst with a keen interest in artificial intelligence development.
-I am passionate about leveraging data to uncover insights and drive impactful decisions. 
-My journey in the tech world has equipped me with a diverse skill set that spans across various domains of AI and data science.
+1) I am an aspiring data analyst with a keen interest in artificial intelligence development.
+2) I am passionate about leveraging data to uncover insights and drive impactful decisions. 
+3) My journey in the tech world has equipped me with a diverse skill set that spans across various domains of AI and data science.
 
 🔧 Skills
 Programming Languages: Python, C++
