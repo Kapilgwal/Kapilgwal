@@ -24,13 +24,6 @@ Cutting-edge generative AI models
 Complex machine learning algorithms
 
 
-# 📫 How to Reach Me
-Email: 2909kapil2001@gmail.com
-LinkedIn: https://www.linkedin.com/in/29-kapil-09-gwal/
-GitHub: https://github.com/Kapilgwal
-Leetcode : https://leetcode.com/u/2909kapil/
-
-
 # 🧠 Interests
 1) Data Analysis
 2) Artificial Intelligence
