@@ -32,12 +32,12 @@ Leetcode : https://leetcode.com/u/2909kapil/
 
 
 # 🧠 Interests
-Data Analysis
-Artificial Intelligence
-Natural Language Processing
-Machine Learning
-Deep Learning
-Generative AI
+1) Data Analysis
+2) Artificial Intelligence
+3) Natural Language Processing
+4) Machine Learning
+5) Deep Learning
+6) Generative AI
 📈 GitHub Stats
 
 
