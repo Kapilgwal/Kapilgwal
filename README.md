@@ -1,4 +1,4 @@
-# Kapil Gwal
+
 # 👋 Hello, I'm Kapil Gwal!
 Aspiring Data Analyst | AI Enthusiast
 
