@@ -38,8 +38,7 @@ Leetcode : https://leetcode.com/u/2909kapil/
 4) Machine Learning
 5) Deep Learning
 6) Generative AI
-📈 GitHub Stats
-
+   
 
 # 🏆 Top Languages
 Feel free to check out my repositories and contribute to any project you find interesting. Let's connect and collaborate!
