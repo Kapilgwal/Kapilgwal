@@ -9,12 +9,13 @@ I am passionate about leveraging data to uncover insights and drive impactful de
 My journey in the tech world has equipped me with a diverse skill set that spans across various domains of AI and data science.
 
 # 🔧 Skills
-Programming Languages: Python, C++
-Data Structures & Algorithms (DSA)
-Natural Language Processing (NLP)
-Deep Learning
-Machine Learning
-Generative Artificial Intelligence
+1) C++
+2) Python
+3) Data Structures & Algorithms (DSA)
+4) Natural Language Processing (NLP)
+5) Deep Learning
+6) Machine Learning
+7) Generative Artificial Intelligence
 
 
 # 🌱 What I'm Currently Learning
