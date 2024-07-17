@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Kapil Gwal!
-Aspiring Data Analyst | AI Enthusiast
+Aspiring Machine Learning Engineer | AI Enthusiast
 
 
 # 🚀 About Me
@@ -26,12 +26,11 @@ Complex machine learning algorithms
 
 
 # 🧠 Interests
-1) Data Analysis
-2) Artificial Intelligence
-3) Natural Language Processing
-4) Machine Learning
-5) Deep Learning
-6) Generative AI
+1) Artificial Intelligence
+2) Natural Language Processing
+3) Machine Learning
+4) Deep Learning
+5) Generative AI
    
 
 # 🏆 Top Languages
