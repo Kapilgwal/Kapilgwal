@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Kapil Gwal!
-Aspiring Machine Learning Engineer | AI Enthusiast
+Aspiring Machine Learning Engineer | AI Enthusiast | Backend Development
 
 
 # 🚀 About Me
@@ -16,6 +16,9 @@ My journey in the tech world has equipped me with a diverse skill set that spans
 5) Deep Learning
 6) Machine Learning
 7) Generative Artificial Intelligence
+8) Noje Js
+9) MongoDB
+10) Javascript
 
 
 # 🌱 What I'm Currently Learning
@@ -31,6 +34,7 @@ Complex machine learning algorithms
 3) Machine Learning
 4) Deep Learning
 5) Generative AI
+6) Backend Development
    
 
 # 🏆 Top Languages
