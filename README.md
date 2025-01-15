@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Kapil Gwal!
-Aspiring Machine Learning Engineer | AI Enthusiast | Backend Development
+Aspiring Machine Learning Engineer | Backend Development
 
 
 # 🚀 About Me
@@ -12,29 +12,18 @@ My journey in the tech world has equipped me with a diverse skill set that spans
 1) C++
 2) Python
 3) Data Structures & Algorithms (DSA)
-4) Natural Language Processing (NLP)
-5) Deep Learning
-6) Machine Learning
-7) Generative Artificial Intelligence
-8) Noje Js
-9) MongoDB
-10) Javascript
+4) Machine Learning
+
 
 
 # 🌱 What I'm Currently Learning
 I am constantly exploring new technologies and methodologies to enhance my skill set. Currently, I am delving deeper into:
-Advanced NLP techniques
-Cutting-edge generative AI models
 Complex machine learning algorithms
 
 
 # 🧠 Interests
-1) Artificial Intelligence
-2) Natural Language Processing
-3) Machine Learning
-4) Deep Learning
-5) Generative AI
-6) Backend Development
+1) Machine Learning
+2) Backend Development
    
 
 # 🏆 Top Languages
