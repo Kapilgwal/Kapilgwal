@@ -6,7 +6,7 @@ Aspiring Machine Learning Engineer | Backend Development
 # 🚀 About Me
 I am an aspiring data analyst with a keen interest in backend development.
 I am passionate about leveraging data to uncover insights and drive impactful decisions. 
-My journey in the tech world has equipped me with a diverse skill set that spans across various domains like machine learning, devops,cloud computing.
+My journey in the tech world has equipped me with a diverse skill set that spans across various domains like machine learning and django developement
 
 # 🔧 Skills
 1) C++
@@ -25,10 +25,5 @@ Complex machine learning algorithms
 1) Machine Learning
 2) Backend Development
    
-
-# 🏆 Top Languages
-Feel free to check out my repositories and contribute to any project you find interesting. Let's connect and collaborate!
-
-
 
 
