@@ -1,6 +1,6 @@
 
 # 👋 Hello, I'm Kapil Gwal!
-Aspiring Machine Learning Engineer | Backend Development
+Aspiring Backend Development
 
 
 # 🚀 About Me
@@ -12,18 +12,18 @@ My journey in the tech world has equipped me with a diverse skill set that spans
 1) C++
 2) Python
 3) Data Structures & Algorithms (DSA)
-4) Machine Learning
+4) Django | Django Rest framework
 
 
 
 # 🌱 What I'm Currently Learning
 I am constantly exploring new technologies and methodologies to enhance my skill set. Currently, I am delving deeper into:
-Complex machine learning algorithms
+django
+django rest framework
 
 
 # 🧠 Interests
-1) Machine Learning
-2) Backend Development
+1) Backend Development
    
 
 
